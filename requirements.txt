@@ -1,0 +1,6 @@
+python
+django 
+djangorestframework 
+mysql
+mysqlclient
+djangorestframework
